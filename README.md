@@ -1,4 +1,4 @@
-# Chai
+# Chai rename to Chae
 Chai Language that a script designed for use on electronic devices for English, Chinese, Japanese and otheuages.<br>
 I have been updated script for English, Chinese, Japanese and Korean languages samples for help learning it <br>
 Currently, it’s researching, improving and developing...<br>
